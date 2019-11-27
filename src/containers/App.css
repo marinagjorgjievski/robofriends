@@ -1,0 +1,11 @@
+@font-face {
+font-family: 'Ironworks Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Ironworks Regular'), url('Ironworks.woff') format('woff');
+}
+
+h1 {
+	font-family: 'Ironworks Regular';
+	font-weight: 200px;
+}
